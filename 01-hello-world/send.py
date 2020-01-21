@@ -19,4 +19,4 @@ if __name__ == "__main__":
     connection.close()
 
 
-# docker run --name rabbitmq -p 5672:5672 rabbitmq 
+# docker run --name rabbitmq2 -p 5672:5672 rabbitmq 
